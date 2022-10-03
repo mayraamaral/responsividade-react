@@ -1,0 +1,9 @@
+div {
+  background-color: #CCC;
+}
+
+@media (max-width: 800px) {
+  div {
+    background-color: #C5C;
+  }
+}
